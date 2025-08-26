@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello 👋 Web3 Contributor  
 
-<!--
-**keyunjadav/keyunjadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I contribute to **dApps, smart contracts, infra, and testnets**.  
+This account is a mix of projects showing **development + security + infra skills**.  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Solidity, React, Ethers.js  
+- Smart contract deployment  
+- Node management & automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [solidity-fundamentals](https://github.com/keyunjadav/solidity-fundamentals)  
+- [web3-toolbox](https://github.com/keyunjadav/web3-toolbox)  
+- [Ansible Node Deployment]
+
+## 📫 Connect
