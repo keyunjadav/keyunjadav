@@ -9,7 +9,7 @@ This account is a mix of projects showing **development + security + infra skill
 - Node management & automation  
 
 ## 🚀 Featured Projects
-- [solidity-fundamentals](https://github.com/keyunjadav/solidity-fundamentals)  
+- [solidity-security-fundamentals](https://github.com/keyunjadav/solidity-security-fundamentals)  
 - [web3-toolbox](https://github.com/keyunjadav/web3-toolbox)  
 - [Ansible Node Deployment]
 
