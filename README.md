@@ -9,8 +9,8 @@ This account is a mix of projects showing **development + security + infra skill
 - Node management & automation  
 
 ## 🚀 Featured Projects
+- [Stablecoin-Savings-App](https://github.com/keyunjadav/Stablecoin-Savings-App)
 - [solidity-security-fundamentals](https://github.com/keyunjadav/solidity-security-fundamentals)  
 - [web3-toolbox](https://github.com/keyunjadav/web3-toolbox)  
-- [Ansible Node Deployment]
 
 ## 📫 Connect
